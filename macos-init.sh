@@ -2,7 +2,7 @@ $ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/instal
 
 brew install jq byobu htop tmux zsh-completions
 brew install git gh git-lfs
-brew install postgresql docker sqlite spatialite-tools node
+brew install postgresql docker sqlite spatialite-tools node nginx
 
 # cpp env
 brew install cmake ccache conan gcc gdb ninja
