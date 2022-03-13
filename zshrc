@@ -102,8 +102,6 @@ alias gclear="git stash && git stash drop"
 alias gcom="git checkout master"
 alias gl="git log --oneline"
 
-alias python=/usr/local/bin/python3
-
 # To hide prompt
 prompt_context(){}
 
